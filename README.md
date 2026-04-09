@@ -4,7 +4,7 @@ Calcula PRIMEROS, SIGUIENTES y conjuntos de PREDICCION de una gramatica.
 
 ## Como usarlo
 
-Tenes las gramaticas definidas al final del archivo, las editas y corres el script.
+ Tienes las gramaticas definidas al final del archivo, las editas y corres el script.
 
 ```bash
 python3 Siguientes.py
